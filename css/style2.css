@@ -12,7 +12,7 @@ img {
 	clear: both;
 }
 
-header {
+header.homepage {
 	background-image: url("../images/main_banner.jpg");
 	background-size: cover;
 	height: 100vh;
