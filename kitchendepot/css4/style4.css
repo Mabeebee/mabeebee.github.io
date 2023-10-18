@@ -33,11 +33,6 @@ body {
 	font-size: 14px;
 }
 
-.header-logo {
-	width: 60px;
-	margin: 5px 0;
-}
-
 .header {
 	max-width: 960px;
 	margin-left: auto;
@@ -48,7 +43,10 @@ body {
 	justify-content: space-between;
 	align-items: stretch;
 }
-
+.header-logo {
+	width: 60px;
+	margin: 5px 0;
+}
 .org-name {
 	align-self: center;
 	margin-right: auto;
@@ -86,8 +84,6 @@ body {
 	margin-top: 14px;
 	filter: opacity(.5);
 }
-
-
 .navbar-item:hover, .navbar-item.activepage{
 	background-color: gold;
 }
